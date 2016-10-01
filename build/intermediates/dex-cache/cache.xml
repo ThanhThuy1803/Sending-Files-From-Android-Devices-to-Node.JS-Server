@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9d9d2cb8fa5811ba369cca7acf8fa4958b49c914.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_c6b12575ced4becc85fdfb438407e61f86b4b698.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_54e9cccceda5d20684b644c76d822ab27e962f5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7274f3b3deef12d394fc1829201fb2d50356d025.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_be24771558342c957296fbe234b4b29ae589a92d.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0528f25ebf7e1d8e412f540d9417a4eb365ecd71">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\instant-run_4bc1f17bc3f6b1a07256ed4125703ca8cb736fc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.3.1\3ca9d0d53a27ecb88538ed874be417cfa827db5d\engine.io-client-0.3.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3ca9d0d53a27ecb88538ed874be417cfa827db5d">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\engine.io-client-0.3.1_0c261a73f8476bb0d0d9418e230bcf7c0dec3649.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="a4ee2073407ded45770cc0d9aeb49c25cb62f54b">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_da4859e96a8218a8a8fc7af45d6f5035a97cac24.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_c3200143adafca64be4a9ed5616f41b5dd5961da.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_0a9dfef99e391913839b6c198dff56c6c1bf61b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_f90a2fd8db411df8ebfea6e2346b8e0a3a6ee6a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\Java-WebSocket-1.3.0_3e5fe3f84e0f0691dffbe2becd32bb451982b742.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_24601b3363e535c7998b1c81964403753406c30f.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.3.0\8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9\socket.io-client-0.3.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8dfd7cf8d1124acb027b3ffd53eafcc518af3ba9">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\socket.io-client-0.3.0_b6169125523bf8cc8f25e69204a2f9490bfac98f.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d5363081760f60c4d2e9d50bf7bf12e6c32f8154.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_a146f22d32b7c297e045344edf2f75ad7bc4b5f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_45212323d0e5bdfe761dea4110841577fc22c641.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_5416fabb7d1885767f6dfb64e58a6c8ede0e9232.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8aa23f796d2dd570b04da6b29e8820a03b3b589d.jar" />
+    </item>
+    <item
+        jar="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\MyPC\Downloads\NodeJSServerFile\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_fa194d6be185b08e38a41fad297167a3852432d7.jar" />
+    </item>
+
+</items>
